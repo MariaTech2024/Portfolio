@@ -13,7 +13,7 @@ export const projects = [
       description:
         "I chose to build a budget manager using the PERN stack (PostgreSQL, Express.js, React, Node.js) to address a common need for effective financial management. It is a practical tool designed to help users manage their finances by tracking their income and expenses. Users can input their financial transactions, categorize them, and view detailed reports and summaries of their financial activities. This project provided an opportunity to enhance my full-stack development skills while developing a practical application that enables users to track their spending, establish financial goals, and make well-informed financial decisions.",
       image: "./Expense_Tracker.png",
-      link: "https://github.com/MariaTech2024/Project1/tree/main/Expense_Tracker",
+      link: "project1-clym.vercel.app",
     },
     {
       title: "React and Redux",
@@ -21,7 +21,7 @@ export const projects = [
       description:
         "Developing a weather application with React and Redux significantly improved my proficiency in contemporary web development and state management. This project yielded a practical and valuable tool that assists numerous individuals in organizing their weekly schedules according to weather forecasts. The application dynamically furnishes weather data for a span of 5 days, catering to any location specified by the user. Key functionalities include an intuitive interface facilitating city searches and weather information retrieval, real-time data retrieval from a public API, and a responsive design optimized for seamless usage across desktop and mobile platforms.",
       image: "./Weather_App.png",
-      link: "https://github.com/MariaTech2024/Project2/tree/main/WeatherApp",
+      link: "project2-jet-beta.vercel.app",
     },
     {
       title: "React, Redux and Framer Motion",
