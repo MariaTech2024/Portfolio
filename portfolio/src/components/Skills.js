@@ -15,7 +15,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-          This skill set comprises essential technologies for modern web development. JavaScript drives interactivity, React simplifies UI creation, and Node.js enables scalable backend development. Redux manages application state, TypeScript enhances code maintainability, and PostgreSQL offers a robust database solution. Python adds versatility across development domains. Together, these tools empower developers to build sophisticated web applications seamlessly.</p>
+          This collection of technologies provides a complete toolkit for modern web development. Whether working with the PERN or MERN stack, these tools empower the creation of robust, full-stack web applications.</p>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {skills.map((skill) => (
             <div key={skill} className="p-2 sm:w-1/2 w-full">

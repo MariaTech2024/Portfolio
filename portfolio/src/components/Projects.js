@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          The PERN stack provides a versatile foundation for building various applications, combining React and its affiliated frameworks for frontend development, and Node.js, Express.js, and PostgreSQL for the backend. React, accompanied by its frameworks, presents a potent set of tools for crafting engaging user interfaces. Meanwhile, Node.js, Express.js, and PostgreSQL form a resilient backend stack, enabling the creation of scalable and high-performing web applications.
+          Check out the apps I have built! You can click on each one to explore. Each app features interactive functionality, seamless navigation, and robust backends powered by PostgreSQL or MongoDB.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

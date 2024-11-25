@@ -11,13 +11,13 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Aspiring full-stack developer with a fresh perspective and a passion for building dynamic web applications. My skills include proficiency in modern front-end and back-end technologies such as Python, JavaScript, React.js, Node.js, and PostgreSQL. I'm enthusiastic about learning and open to tackling new challenges. What sets me apart is my creative approach to solving problems and my dedication to continuous growth.
+          Aspiring full-stack developer with a fresh perspective and a passion for building dynamic web applications. My skills include proficiency in modern front-end and back-end technologies such as Python, JavaScript, React.js, Node.js, Express.js, Redux, PostgreSQL, MongoDB, Git version control. I'm enthusiastic about learning and open to tackling new challenges. What sets me apart is my creative approach to solving problems and my dedication to continuous growth.
 
 I believe in collaboration and strive to bring a positive energy to every project I work on. Whether it's crafting user-friendly interfaces or developing efficient server-side logic, I enjoy every step of the process. If you're looking for a motivated, detail-oriented developer eager to contribute innovative ideas and learn from experienced professionals.
           </p>
           <div className="flex justify-center">
             <a
-              href="/CV_2024.pdf" 
+              href="/CV_Mariia_Volzhina.pdf" 
               download
               className="ml-4 inline-flex text-white bg-blue-900 border-0 py-2 px-6 focus:outline-none hover:bg-blue-500 rounded text-lg"
               target="_blank" >
