@@ -43,6 +43,24 @@ export const projects = [
       image: "./Expense_Tracker.png",
       link: "https://project1-clym.vercel.app",
     },
+  {
+      title: "PERN Stack",
+      subtitle: "Expense_Tracker",
+      description:
+        "I built a budget manager using the PERN stack to help users track income and expenses, categorize transactions, and view detailed financial reports. This project enhanced my full-stack skills while providing a practical tool for managing finances and setting financial goals.",
+      image: "./Expense_Tracker.png",
+      link: "https://project1-clym.vercel.app",
+    },
+
+    {
+      title: "React.js and Node.js",
+      subtitle: "URL Metadata fetcher",
+      description:
+        "URL Metadata Fetcher allows users to input URLs and fetch metadata (title, description, image) for each. Built with React and Node.js, it implements server-side rate limiting (5 requests per second). The app is secure against common vulnerabilities like XSS and CSRF.",
+      image: "./Metadata_Fetcher.png",
+      link: "https://metadata-app-plum.vercel.app",
+    },
+
 
   ];
   
