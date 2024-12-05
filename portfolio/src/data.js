@@ -43,14 +43,6 @@ export const projects = [
       image: "./Expense_Tracker.png",
       link: "https://project1-clym.vercel.app",
     },
-  {
-      title: "PERN Stack",
-      subtitle: "Expense_Tracker",
-      description:
-        "I built a budget manager using the PERN stack to help users track income and expenses, categorize transactions, and view detailed financial reports. This project enhanced my full-stack skills while providing a practical tool for managing finances and setting financial goals.",
-      image: "./Expense_Tracker.png",
-      link: "https://project1-clym.vercel.app",
-    },
 
     {
       title: "React.js and Node.js",
